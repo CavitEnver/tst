@@ -1,0 +1,250 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-name="AzTV", group-title="Azerbaycan",
+http://str.yodacdn.net/azertv/index.m3u8
+#EXTINF:-1 tvg-name="Ictimai TV", group-title="Azerbaycan",
+http://str.yodacdn.net/ictimaitele/index.m3u8
+#EXTINF:-1 tvg-name="ATV Azerbaijan", group-title="Azerbaycan",
+http://str.yodacdn.net/atv/index.m3u8
+#EXTINF:-1 tvg-name="Xazar TV", group-title="Azerbaycan",
+http://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
+#EXTINF:-1 tvg-name="Space TV", group-title="Azerbaycan",
+http://str.yodacdn.net/space/index.m3u8
+#EXTINF:-1 tvg-name="Medeniyyet TV", group-title="Azerbaycan",
+http://str.yodacdn.net/medeniyyettele/index.m3u8
+#EXTINF:-1 tvg-name="ARB TV", group-title="Azerbaycan",
+http://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
+#EXTINF:-1 tvg-name="ARB 24", group-title="Azerbaycan",
+http://str.yodacdn.net/arb24/index.m3u8
+#EXTINF:-1 tvg-name="ARB Gunesh", group-title="Azerbaycan",
+http://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
+#EXTINF:-1 tvg-name="Real TV", group-title="Azerbaycan",
+http://str.yodacdn.net/real/index.m3u8
+#EXTINF:-1 tvg-name="Dunya TV", group-title="Azerbaycan",
+http://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
+#EXTINF:-1 tvg-name="MTV Azerbaijan", group-title="Azerbaycan",
+http://str.yodacdn.net/mtvaz/index.m3u8
+#EXTINF:-1 tvg-name="Idman TV", group-title="Azerbaycan",
+http://str.yodacdn.net/idmantele/index.m3u8
+#EXTINF:-1 tvg-name="CBC Sport HD", group-title="Azerbaycan",
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
+#EXTINF:-1 tvg-name="CBC TV", group-title="Azerbaycan",
+http://str.yodacdn.net/cbc/index.m3u8
+#EXTINF:-1 tvg-name="BAKU TV", group-title="Azerbaycan",
+https://rtmp.baku.tv/hls/bakutv.m3u8
+#EXTINF:-1 tvg-name="Naxcivan TV", group-title="Azerbaycan",
+http://str.yodacdn.net/ntv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="KANAL S", group-title="Azerbaycan",
+http://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/kanal-s.m3u8
+#EXTINF:-1 tvg-name="Kepez TV", group-title="Azerbaycan",
+http://85.132.78.122:8050/hls/stream/index.m3u8
+#EXTINF:-1 tvg-name="Sehiyye TV", group-title="Azerbaycan",
+http://185.32.44.154/sehiyye/mono.m3u8
+#EXTINF:-1 tvg-name="TMB Azerbaycan", group-title="Azerbaycan",
+https://str2.yodacdn.net/tmbaz/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Qafqaz TV", group-title="Azerbaycan",
+https://str1.yodacdn.net/qafkaz/playlist.m3u8
+#EXTINF:-1 tvg-name="EL TV", group-title="Azerbaycan",
+http://85.132.53.162:1935/live/eltv/playlist.m3u8
+#EXTINF:-1 tvg-name="Show Plus", group-title="Azerbaycan",
+https://rtmp.showplus.tv/hls/myshow.m3u8
+#EXTINF:-1 tvg-name="Biznes TV", group-title="Azerbaycan",
+http://str.yodacdn.net/biznestv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:1 tvg-name="Kanal 35", group-title="Azerbaycan",
+http://str.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="LIVE TV", group-title="Azerbaycan",
+https://tv.mobyservice.ru/livetv/index.m3u8
+#EXTINF:-1 tvg-name="Konul TV MUSIC", group-title="Azerbaycan",
+https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
+#EXTINF:-1 tvg-name="Ayaz TV", group-title="Azerbaycan",
+https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_1500k.m3u8
+#EXTINF:-1 tvg-name="Son Umid TV", group-title="Azerbaycan",
+https://cdn-sonumidtv.yayin.com.tr/sonumidtv/sonumidtv/chunklist_w2128397060.m3u8
+#EXTINF:-1 tvg-name="MAHNI TV", group-title="Azerbaycan",
+http://xantv.site:41480/MahniTV/video.m3u8
+#EXTINF:-1 tvg-name="KN TV", group-title="Azerbaycan",
+https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Hind Music", group-title="Azerbaycan",
+https://fl1001.bozztv.com/ushba-t4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Azerbaijan Music", group-title="Azerbaycan",
+https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
+#EXTINF:-1 tvg-name="Azerbaijan Music Hit", group-title="Azerbaycan",
+https://cdn4.yayin.com.tr/musicazhit/video.m3u8
+
+#EXTINF:-1 tvg-name="Alwan", group-title="Alwan",
+http://mag.jee-ott.xyz:80/play/live.php?mac=A0:BB:3E:08:50:20&stream=1859098&extension=ts&play_token=fYlGTsVsz2
+#EXTINF:-1 tvg-name="Alwan2", group-title="Alwan",
+http://mag.jee-ott.xyz:80/play/live.php?mac=A0:BB:3E:08:50:20&stream=1859097&extension=ts&play_token=rst1gmWrvA
+#EXTINF:-1 tvg-name="Alwan3", group-title="Alwan",
+http://mag.jee-ott.xyz:80/play/live.php?mac=A0:BB:3E:08:50:20&stream=1859096&extension=ts&play_token=ZNQXOoAiL0
+#EXTINF:-1 tvg-name="Alwan4", group-title="Alwan",
+http://mag.jee-ott.xyz:80/play/live.php?mac=A0:BB:3E:08:50:20&stream=1859095&extension=ts&play_token=ocgDhbbGwX
+#EXTINF:-1 tvg-name="Alwan5", group-title="Alwan",
+http://mag.jee-ott.xyz:80/play/live.php?mac=A0:BB:3E:08:50:20&stream=1859094&extension=ts&play_token=5tocwvUazq
+#EXTINF:-1 tvg-name="Alwan6", group-title="Alwan",
+http://mag.jee-ott.xyz:80/play/live.php?mac=A0:BB:3E:08:50:20&stream=1859092&extension=ts&play_token=fSfgfqe7G4
+#EXTINF:-1 tvg-name="Alwan7", group-title="Alwan",
+http://mag.jee-ott.xyz:80/play/live.php?mac=A0:BB:3E:08:50:20&stream=1859075&extension=ts&play_token=xaM2OjtvYM
+
+#EXTINF:-1 tvg-name="TRT 1" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/trt-1-tr.png" group-title="Ulusal",1. TRT 1
+https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 tvg-name="TRT 1" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/trt-1-tr.png" group-title="Ulusal",2. TRT 1
+https://andro.okan9gote10sokan.cfd/checklist/androstreamlivetrt1.m3u8
+#EXTINF:-1 tvg-name="TRT Türk" tvg-id="" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/11787778.png" group-title="Ulusal",3. TRT Türk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tv-trtturk.medya.trt.com.tr/master_1080.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-name="TRT World" tvg-id="" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/7834584.png" group-title="Ulusal",4. TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="Show TV" tvg-id="" tvg-logo="https://m.showtv.com.tr/assets/images/other/showtv_social_media.jpg" group-title="Ulusal",5. Show TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tatatam.trt1sultanfatihss.workers.dev/https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=10800&st=0iY4u_Hl02bVpWC40fhnkg&sid=8004kitozcix&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
+#EXTINF:-1 tvg-name="ATV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/atv-tr.png" group-title="Ulusal",6. ATV
+https://andro.okan9gote10sokan.cfd/checklist/androstreamliveatv.m3u8
+#EXTINF:-1 tvg-name="ATV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/atv-tr.png" group-title="Ulusal",7. ATV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
+#EXTINF:-1 tvg-name="A2" tvg-id="" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/a2-tr.png" group-title="Ulusal",8. A2
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
+#EXTINF:-1 tvg-name="Kanal D" tvg-id="" tvg-logo="https://turkey.mom-rsf.org/uploads/tx_lfrogmom/media/240-101_import.png" group-title="Ulusal",9. Kanal D
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_1080p.m3u8
+#EXTINF:-1 tvg-name="Fox" tvg-id="" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/fox-tr.png" group-title="Ulusal",10. Fox
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
+#EXTINF:-1 tvg-name="TV 8" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="Ulusal",11. TV 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 14_1) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15
+https://andro.okan9gote10sokan.cfd/checklist/androstreamlivetv8.m3u8
+#EXTINF:-1 tvg-name="TV 8" tvg-id="TV 8.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="Ulusal",TV 8
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
+#EXTINF:-1 tvg-name="TV 8.5" tvg-id="" tvg-logo="https://tvprofil.com/img/kanali-logo/TV_8.5_TR_logo_v2.png?1734016644" group-title="Ulusal",12. TV 8.5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
+#EXTINF:-1 tvg-name="Beyaz Tv" tvg-id="" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/beyaz-tv-tr.png" group-title="Ulusal",15. Beyaz Tv
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
+#EXTINF:-1 tvg-name="Kanal 7" tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/s029TvwR-pU-SIoJh2GcGIScm4LzsmuTTbwPSCtwIK_6aOOXjQwC6mcHeMrPDst2KYM" group-title="Ulusal",13. Kanal 7
+https://yurhnwtpys.turknet.ercdn.net/cvmbjbpmdx/kanal7/kanal7_1080p.m3u8
+#EXTINF:-1 tvg-name="360 TV" tvg-id="" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/360-tr.png" group-title="Ulusal",16. 360 TV
+https://tv.ensonhaber.com/tv360/tv360.m3u8
+
+#EXTINF:-1 tvg-name="Disney Channel" tvg-id="Disney Channel.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/disney-channel-tr.png" group-title="Çocuklara Özel",Disney Channel
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:56:7A:24&stream=10751&extension=ts
+#EXTINF:-1 tvg-name="Disney Jr" tvg-id="" tvg-logo="https://www.msemporium.de/disney-portal/fileadmin/bilder/teaser/streaming-tv/disney-junior.png" group-title="Çocuklara Özel",33. Disney Jr
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:56:7A:24&stream=10750&extension=ts
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-id="" tvg-logo="https://kress-cloud.com/news_detail_slider/uploads/news/nickelodeon-Logo-2010.jpg" group-title="Çocuklara Özel",Nickelodeon
+http://vpsserverdomain.com:8080/oguzhanbahadirtr/bxymkuGM/430
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-id="" tvg-logo="https://i.ibb.co/X5yPXkD/cartoon-network.png" group-title="Çocuklara Özel",36. Cartoon Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
+https://mss.ayakkabiparti.lol/cartoonnetwork/index.m3u8
+#EXTINF:-1 tvg-name="Minika Go" tvg-id="" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/minika-go-tr.png" group-title="Çocuklara Özel",37. Minika Go
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 14_1) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8
+#EXTINF:-1 tvg-name="Minika Cocuk" tvg-id="" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/minika-cocuk-tr.png" group-title="Çocuklara Özel",38. Minika Cocuk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8
+#EXTINF:-1 tvg-name="TRT Çocuk" tvg-id="" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/13060701.png" group-title="Çocuklara Özel",34. TRT Çocuk
+https://bstelevision.com/proxy_stream.php?u=https://trn03.tulix.tv/gt-trtcocuk/tracks-v1a1/rewind-128880.m3u8
+#EXTINF:-1 tvg-name="TRT Diyanet Çocuk" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/B63Iy6s7806LvjKeJZCQOdmXqp5F74QmMQmPDEHfDsTpipBrVFW4zraq4E5O3OZDYm417YhAJg=s900-c-k-c0x00ffffff-no-rj" group-title="Çocuklara Özel",35. TRT Diyanet Çocuk
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="Tom ve Jerry" tvg-id="" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/1ee2330505f6c9257b592e296236cdf917ac3499ac89cc39972ed2f8861c73c7.jpg" group-title="Çocuklara Özel",Tom ve Jerry
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:56:7A:24&stream=151997&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="Spor",Bein sport 1
+https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="Spor",Bein sport 1 
+http://146.59.93.251/10422/index.m3u8?token=74F13A6D9308
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="Spor",Bein Sport 1 
+https://zeustv453269.info/b1local/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="Spor",Bein Sport 1 
+https://dga1op10s1u3leo.2cc1c0fe5e38a1.click/live/xbeinsports-1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Spor",SSport 1
+https://hlsssssss.amgtmeme.workers.dev/https://corestream.ronaldovurdu.help//hls/s-sport.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Spor",SSport 1
+https://cdn.beintvcanliizle154.com/M970499/M970499.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Spor",SSport 2
+https://cdn.beintvcanliizle154.com/M817817/M817817.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Spor",SSport 2
+https://hlsssssss.amgtmeme.workers.dev/https://corestream.ronaldovurdu.help//hls/s-sport-2.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="Spor",Bein sport 2
+https://corestream.ronaldovurdu.help//hls/bein-sports-2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="Spor",Bein sport 2(yedek)
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="Spor",Bein sport 3
+https://corestream.ronaldovurdu.help//hls/bein-sports-3.m3u8
+#EXTINF:-1 tvg-name="A Spor" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/a-spor-tr.png" group-title="Spor",36. A Spor
+https://andro.226503.xyz/checklist/androstreamlivess1.m3u8
+#EXTINF:-1 tvg-name="TRT Spor" tvg-id="TRT Spor.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/trt-spor-tr.png" group-title="Spor",TRT Spor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+https://andro.okan9gote10sokan.cfd/checklist/androstreamlivetrts.m3u8
+#EXTINF:-1 tvg-name="HT Spor" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFubzZVJvdxE_-EsON2kuk43rrFhsksu2kakH0FGWdpWUAR8CWep_gmGHZ&s=10" group-title="Spor",41. HT Spor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+http://vpsserverdomain.com:8080/oguzhanbahadirtr/bxymkuGM/601806
+#EXTINF:-1 tvg-name="Euro Sport" tvg-id="" tvg-logo="https://i.eurosport.com/2015/11/12/1731141-36621046-2560-1440.jpg" group-title="Spor",44. Euro Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+https://andro.okan9gote10sokan.cfd/checklist/androstreamlivees1.m3u8
+#EXTINF:-1 tvg-name="Euro Sport 2" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDiQVfLONMYUZidKLsNgDmHnLPSXWHV3iactdKIzUcb8ITqXUfjEAnhRCG&s=10" group-title="Spor",45. Euro Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+https://andro.okan9gote10sokan.cfd/checklist/androstreamlivees2.m3u8
+#EXTINF:-1 tvg-name="Tivibu Spor 1" tvg-id="" tvg-logo="https://i1.sndcdn.com/avatars-000335394613-kvru7x-t1080x1080.jpg" group-title="Spor",46. Tivibu Spor 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+https://raspy-forest-b1e4.aykara463.workers.dev/706.m3u8
+#EXTINF:-1 tvg-name="Tivibu Spor 2" tvg-id="" tvg-logo="https://tvprofil.com/img/kanali-logo/Tivibu_Spor_2_TR_logo_v2.png?1733730885" group-title="Spor",47. Tivibu Spor 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Mobile/15E148 Safari/604.1
+https://andro.okan9gote10sokan.cfd/checklist/androstreamlivets2.m3u8
+#EXTINF:-1 tvg-name="Tivibu Spor 3" tvg-id="" tvg-logo="https://tvprofil.com/img/kanali-logo/Tivibu_Spor_3_TR_logo_v2.png?1733730977" group-title="Spor",48. Tivibu Spor 3
+#EXTVLCOPT:http-referrer=https://main.uxsyplayerdcb7cd0c20.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-origin=https://main.uxsyplayerdcb7cd0c20.click
+https://andro.okan9gote10sokan.cfd/checklist/androstreamlivets3.m3u8
+#EXTINF:-1 tvg-name="Tivibu Spor 4" tvg-id="" tvg-logo="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20230125888743.png" group-title="Spor",49. Tivibu Spor 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://andro.okan9gote10sokan.cfd/checklist/androstreamlivets4.m3u8
+
+#EXTINF:-1 tvg-name="Tabii" tvg-id="" tvg-logo="https://cms-tabii-assets.tabii.com/thumbnails/23963_781e9dee-cbd8-491a-b166-0b1df25b3bd0_720.jpeg" group-title="Sinema",77. Tabii
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
+#EXTINF:-1 tvg-name="Max Turk" tvg-id="Max Turk.tr" tvg-logo="https://www.sinematurk.com/media/logo/sinematurkTop.png" group-title="Sinema",Max Turk
+http://vpsserverdomain.com:8080/oguzhanbahadirtr/bxymkuGM/10851
+#EXTINF:-1 tvg-name="Rize Turk" tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFqUAdF7Tg2HfBWFru-Yl2rVntju4lRUSxFIMR4gvaHV7Y1FyGZnFma2QbxHzL0yw-ofOqVt2oQk-BaoW_iYIbEri56Q0ZrW90tPnFNCLTZMd3sSy5JyEbb_p5zhNVyxJQa4U-dd3scI6Z8CBhrnDMF-TGkgZfCdoDqcP5SBWkM18IoCx_ObsNO1AUJw/s434/rizeturktv.png" group-title="Sinema",Rize Turk
+https://yayin.rizeturk.com:3777/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-name="Tivi 6" tvg-id="" tvg-logo="https://tivi6.com.tr/wp-content/uploads/2022/11/tivi6_logo-300x113-1.png" group-title="Sinema",93. Tivi 6
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+#EXTINF:-1 tvg-name="FX" tvg-id="7f190eceae35f6e69fbae67b34c0ed76" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/fx-tr.png" group-title="Sinema",FX
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:56:7A:24&stream=196847&extension=ts
+#EXTINF:-1 tvg-name="Komedi TV" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaZ5DEs1MYVvQnhCsSrlbQWchnS6Dlogf1LA&s" group-title="Sinema",Komedi TV
+https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="TRT Belgesel" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/trt-belgesel-tr.png" group-title="Belgesel",95. TRT Belgesel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv-trtbelgesel-dai.medya.trt.com.tr/master_3.m3u8
+
+#EXTINF:-1 tvg-name="DMAX" tvg-id="" tvg-logo="https://d2v9mhsiek5lbq.cloudfront.net/eyJidWNrZXQiOiJsb21hLW1lZGlhLWRlIiwia2V5IjoiZG1heC1pbWFnZS1lODg0NmVhNy02YWNkLTRiMjYtOTMxMi1kYmQ1Y2EyMjk0OGEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE5MjAsImhlaWdodCI6MTA4MH0sImpwZWciOnsicXVhbGl0eSI6NTUsInByb2dyZXNzaXZlIjp0cnVlfX19" group-title="Belgesel",97. DMAX
+https://trn03.tulix.tv/gt-dmax-tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="National Geo" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/800px-National_Geographic_Channel.svg.png" group-title="Belgesel",103. National Geo
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:56:7A:24&stream=10744&extension=ts
+#EXTINF:-1 tvg-name="Nat Geo Wild" tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjI5YWE4MWQtNzhjZi00OWY5LWFhNmItZmRmZmZkZDlkMDc3XkEyXkFqcGc@._V1_.jpg" group-title="Belgesel",Nat Geo Wild
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 14_1) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:56:7A:24&stream=10742&extension=ts
+#EXTINF:-1 tvg-name="Diyanet TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/diyanet-tv-tr.png" group-title="Belgesel",Diyanet TV
+https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/chunks.m3u8
+#EXTINF:-1 tvg-name="Vav TV" tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vav-tv-tr.png" group-title="Belgesel",Vav TV
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:56:7A:24&stream=314437&extension=ts
+#EXTINF:-1 tvg-name="BBC Earth" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvi0cZPUQ7bJI4oSnORLnPzTa_9LUUGG1s4fdbMRVwYMRIqKOBSBKoLcgx6sE&s" group-title="Belgesel",BBC Earth
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:56:7A:24&stream=314485&extension=ts
+#EXTINF:-1 tvg-name="Discovery" tvg-id="" tvg-logo="https://bilder.wunschliste.de/gfx/pics/1408/Discovery-Channel-3.jpg.jpg" group-title="Belgesel",Discovery
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:56:7A:24&stream=10740&extension=ts
+#EXTINF:-1 tvg-name="Viasat History" tvg-id="" tvg-logo="https://dsmart-static-v2.ercdn.net/content/t/hI/13387/Thumbnail.png?v=636927790293842950" group-title="Belgesel",Viasat History
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:56:7A:24&stream=170684&extension=ts
+#EXTINF:-1 tvg-name="Belgesel TV" tvg-id="" tvg-logo="https://anadoluefes.com.tr/Admin/images/ContentImage/eco-cevre-belgesel-y.jpg" group-title="Belgesel",Belgesel TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/belgesel-tv/playlist/0.m3u8
+#EXTINF:-1 tvg-name="Nature Time" tvg-id="" tvg-logo="https://naturetimetv.com/wp-content/uploads/2023/09/NatureTime_Primary-Logo.png" group-title="Belgesel",Nature Time
+https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/ts-eu-w1-n2/playlist/amg00090-blueantmedia-naturetime-samsungfr/cb573f1f6573629098cf3d78d1f44882847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9734cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7f9b355148e6ef7e5014a957910fa83439fd501b2d6d75a834b8423f94795c3a48bd21586e4235293738a80cd8a430df8fa1bb7ec1fd1fd9f7b349d7f31346f3f8486a68e82b81b25393addead9b075fa69bee1b752ae56c969b74380358469bf1ba0a339c803051123335b8aed210d0baff2a598bb0632a569f5bba3ba1919cba0452a149b2eb0705a150313f80070e935efb19602be220b78e0db28be88a08cffb5c2689937c6cefaa2f023246c290d9c54ae966c947c9328e886242852494bba8915eab2990f602c1fddc069dd1d4ded80cb9b895a728a410b4ae465ee5e0747c5202329b67ab7c96a2cc10d22b11811b718398949f9f80bf0a4d0ea4f7b96d6d54df26aa0e45e87b852e73d72094280f32a5e57453285bd3143632fb1308eb9fde8790d0ffbe48daf90215f290d57035cc5b29d33f1e8e7261211cd565c105718059909d32992407e0920cd11c4bf4b13a1033226f2a82f57393dc59a51e0430a74e9d3c6ef05534757cf5125a423c49cd5f086/132/1920x1080_4716800/index.m3u8
+
+#EXTINF:-1 tvg-name="Tarih TV" tvg-id="" tvg-logo="https://imgs.search.brave.com/NlIeYcxgOm9cYqJ5Uz63qMIk-P0vQGQKx09nxww4-hU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pdHYy/MjQxODYudG1wLnRp/dmlidS5jb20udHI6/NjQzMC9pbWFnZXMv/cG9zdGVyLzIwMjUw/ODAxODM5MTcxLnBu/Zw" group-title="Belgesel",Tarih TV
+https://mss.ayakkabiparti.lol/tarihtv/index.m3u8
+#EXTINF:-1 tvg-name="Love Nature" tvg-id="" tvg-logo="https://imgs.search.brave.com/ZySlRQ1Qe-akzY3F8XnduCqrO3twE1jp90iHc9z1j-o/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly91cy4x/MjNyZi5jb20vNDUw/d20vYXJpbWFuZ2dh/bGEvYXJpbWFuZ2dh/bGEyMDA1L2FyaW1h/bmdnYWxhMjAwNTAw/MDE3LzE0NjcyMzkw/My1uYXR1cmUtbG92/ZS1sb2dvLWdyZWVu/LWxlYWYtZGVzaWdu/LmpwZz92ZXI9Ng" group-title="Belgesel",Love Nature
+https://mss.ayakkabiparti.lol/lovenature/index.m3u8
