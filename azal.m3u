@@ -1,75 +1,75 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-name="AzTv" tvg-id="" tvg-logo="" group-title="Azerbaycan",
+#EXTINF:-1 tvg-name="AzTv" tvg-id="" tvg-logo="" group-title="Azerbaycan",AzTv
 http://str.yodacdn.net/azertv/index.m3u8
-#EXTINF:-1 tvg-name="Ictimai Tv" tvg-id="" tvg-logo="" group-title="Azerbaycan",
+#EXTINF:-1 tvg-name="Ictimai Tv" tvg-id="" tvg-logo="" group-title="Azerbaycan",Ictimai Tv
 http://str.yodacdn.net/ictimaitele/index.m3u8
-#EXTINF:-1 tvg-name="Atv Az" tvg-id="" tvg-logo="" group-title="Azerbaycan",
+#EXTINF:-1 tvg-name="Atv Az" tvg-id="" tvg-logo="" group-title="Azerbaycan",Atv Az
 http://str.yodacdn.net/atv/index.m3u8
-#EXTINF:-1 tvg-name="Xezer Tv" tvg-id="" tvg-logo="" group-title="Azerbaycan",
+#EXTINF:-1 tvg-name="Xezer Tv" tvg-id="" tvg-logo="" group-title="Azerbaycan",Xezer Tv
 http://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
-#EXTINF:-1 tvg-name="Space Tv" tvg-id="" tvg-logo="" group-title="Azerbaycan",
+#EXTINF:-1 tvg-name="Space Tv" tvg-id="" tvg-logo="" group-title="Azerbaycan",Space Tv
 http://str.yodacdn.net/space/index.m3u8
-#EXTINF:-1 tvg-name="Medeniyyet Tv" tvg-id="" tvg-logo="" group-title="Azerbaycan",
+#EXTINF:-1 tvg-name="Medeniyyet Tv" tvg-id="" tvg-logo="" group-title="Azerbaycan",Medeniyyet Tv
 http://str.yodacdn.net/medeniyyettele/index.m3u8
-#EXTINF:-1 tvg-name="ARB TV" tvg-id="" tvg-logo="" group-title="Azerbaycan",
+#EXTINF:-1 tvg-name="ARB TV" tvg-id="" tvg-logo="" group-title="Azerbaycan",ARB TV
 http://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
-#EXTINF:-1 tvg-name="ARB 24" tvg-id="" tvg-logo="" group-title="Azerbaycan",
+#EXTINF:-1 tvg-name="ARB 24" tvg-id="" tvg-logo="" group-title="Azerbaycan",ARB 24
 http://str.yodacdn.net/arb24/index.m3u8
-#EXTINF:-1 tvg-name="ARB Gunesh" tvg-id="" tvg-logo="" group-title="Azerbaycan",
+#EXTINF:-1 tvg-name="ARB Gunesh" tvg-id="" tvg-logo="" group-title="Azerbaycan",ARB Gunesh
 http://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
-#EXTINF:-1 tvg-name="Real Tv" tvg-id="" tvg-logo="" group-title="Azerbaycan",
+#EXTINF:-1 tvg-name="Real Tv" tvg-id="" tvg-logo="" group-title="Azerbaycan",Real Tv
 http://str.yodacdn.net/real/index.m3u8
-#EXTINF:-1 tvg-name="Dunya Tv" tvg-id="" tvg-logo="" group-title="Azerbaycan",
+#EXTINF:-1 tvg-name="Dunya Tv" tvg-id="" tvg-logo="" group-title="Azerbaycan",Dunya Tv
 http://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
-#EXTINF:-1 tvg-name="MTV AZ" tvg-id="" tvg-logo="" group-title="Azerbaycan",
+#EXTINF:-1 tvg-name="MTV AZ" tvg-id="" tvg-logo="" group-title="Azerbaycan",MTV AZ
 http://str.yodacdn.net/mtvaz/index.m3u8
-#EXTINF:-1 tvg-name="Idman Tv" tvg-id="" tvg-logo="" group-title="Azerbaycan",
+#EXTINF:-1 tvg-name="Idman Tv" tvg-id="" tvg-logo="" group-title="Azerbaycan",Idman Tv
 http://str.yodacdn.net/idmantele/index.m3u8
-#EXTINF:-1 tvg-name="CBC Sport" tvg-id="" tvg-logo="" group-title="Azerbaycan",
+#EXTINF:-1 tvg-name="CBC Sport" tvg-id="" tvg-logo="" group-title="Azerbaycan",CBC Sport
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
-#EXTINF:-1 tvg-name="CBC TV" tvg-id="" tvg-logo="" group-title="Azerbaycan",
+#EXTINF:-1 tvg-name="CBC TV" tvg-id="" tvg-logo="" group-title="Azerbaycan",CBC TV
 http://str.yodacdn.net/cbc/index.m3u8
-#EXTINF:-1 tvg-name="BAKU TV" tvg-id="" tvg-logo="" group-title="Azerbaycan",
+#EXTINF:-1 tvg-name="BAKU TV" tvg-id="" tvg-logo="" group-title="Azerbaycan",BAKU TV
 https://rtmp.baku.tv/hls/bakutv.m3u8
-#EXTINF:-1 tvg-name="Naxcivan Tv" tvg-id="" tvg-logo="" group-title="Azerbaycan",
+#EXTINF:-1 tvg-name="Naxcivan Tv" tvg-id="" tvg-logo="" group-title="Azerbaycan",Naxcivan Tv
 http://str.yodacdn.net/ntv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Kanal S" tvg-id="" tvg-logo="" group-title="Azerbaycan",
+#EXTINF:-1 tvg-name="Kanal S" tvg-id="" tvg-logo="" group-title="Azerbaycan",Kanal S
 http://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/kanal-s.m3u8
-#EXTINF:-1 tvg-name="Kepez Tv" tvg-id="" tvg-logo="" group-title="Azerbaycan",
+#EXTINF:-1 tvg-name="Kepez Tv" tvg-id="" tvg-logo="" group-title="Azerbaycan",Kepez Tv
 http://85.132.78.122:8050/hls/stream/index.m3u8
-#EXTINF:-1 tvg-name="Sehiyye Tv" tvg-id="" tvg-logo="" group-title="Azerbaycan",
+#EXTINF:-1 tvg-name="Sehiyye Tv" tvg-id="" tvg-logo="" group-title="Azerbaycan",Sehiyye Tv
 http://185.32.44.154/sehiyye/mono.m3u8
-#EXTINF:-1 tvg-name="TMB AZ" tvg-id="" tvg-logo="" group-title="Azerbaycan",
+#EXTINF:-1 tvg-name="TMB AZ" tvg-id="" tvg-logo="" group-title="Azerbaycan",TMB AZ
 https://str2.yodacdn.net/tmbaz/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Qafqaz TV" tvg-id="" tvg-logo="" group-title="Azerbaycan",
+#EXTINF:-1 tvg-name="Qafqaz TV" tvg-id="" tvg-logo="" group-title="Azerbaycan",Qafqaz TV
 https://str1.yodacdn.net/qafkaz/playlist.m3u8
-#EXTINF:-1 tvg-name="EL TV" tvg-id="" tvg-logo="" group-title="Azerbaycan",
+#EXTINF:-1 tvg-name="EL TV" tvg-id="" tvg-logo="" group-title="Azerbaycan",EL TV
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
-#EXTINF:-1 tvg-name="Show Plus" tvg-id="" tvg-logo="" group-title="Azerbaycan",
+#EXTINF:-1 tvg-name="Show Plus" tvg-id="" tvg-logo="" group-title="Azerbaycan",Show Plus
 https://rtmp.showplus.tv/hls/myshow.m3u8
-#EXTINF:-1 tvg-name="Biznes Tv" tvg-id="" tvg-logo="" group-title="Azerbaycan",
+#EXTINF:-1 tvg-name="Biznes Tv" tvg-id="" tvg-logo="" group-title="Azerbaycan",Biznes Tv
 http://str.yodacdn.net/biznestv/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Kanal 35" tvg-id="" tvg-logo="" group-title="Azerbaycan",
+#EXTINF:-1 tvg-name="Kanal 35" tvg-id="" tvg-logo="" group-title="Azerbaycan",Kanal 35
 http://str.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Live Tv" tvg-id="" tvg-logo="" group-title="Azerbaycan",
+#EXTINF:-1 tvg-name="Live Tv" tvg-id="" tvg-logo="" group-title="Azerbaycan",Live Tv
 https://tv.mobyservice.ru/livetv/index.m3u8
-#EXTINF:-1 tvg-name="Konul Tv Music" tvg-id="" tvg-logo="" group-title="Azerbaycan",
+#EXTINF:-1 tvg-name="Konul Tv Music" tvg-id="" tvg-logo="" group-title="Azerbaycan",Konul Tv Music
 https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
-#EXTINF:-1 tvg-name="Ayaz Tv" tvg-id="" tvg-logo="" group-title="Azerbaycan",
+#EXTINF:-1 tvg-name="Ayaz Tv" tvg-id="" tvg-logo="" group-title="Azerbaycan",Ayaz Tv
 https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_1500k.m3u8
-#EXTINF:-1 tvg-name="Son Umid Tv" tvg-id="" tvg-logo="" group-title="Azerbaycan",
+#EXTINF:-1 tvg-name="Son Umid Tv" tvg-id="" tvg-logo="" group-title="Azerbaycan",Son Umid Tv
 https://cdn-sonumidtv.yayin.com.tr/sonumidtv/sonumidtv/chunklist_w2128397060.m3u8
-#EXTINF:-1 tvg-name="Mahni Tv" tvg-id="" tvg-logo="" group-title="Azerbaycan",
+#EXTINF:-1 tvg-name="Mahni Tv" tvg-id="" tvg-logo="" group-title="Azerbaycan",Mahni Tv
 http://xantv.site:41480/MahniTV/video.m3u8
-#EXTINF:-1 tvg-name="KN TV" tvg-id="" tvg-logo="" group-title="Azerbaycan",
+#EXTINF:-1 tvg-name="KN TV" tvg-id="" tvg-logo="" group-title="Azerbaycan",KN TV
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Hind Music" tvg-id="" tvg-logo="" group-title="Azerbaycan",
+#EXTINF:-1 tvg-name="Hind Music" tvg-id="" tvg-logo="" group-title="Azerbaycan",Hind Music
 https://fl1001.bozztv.com/ushba-t4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Azerbaijan Music" tvg-id="" tvg-logo="" group-title="Azerbaycan",
+#EXTINF:-1 tvg-name="Azerbaijan Music" tvg-id="" tvg-logo="" group-title="Azerbaycan",Azerbaijan Music
 https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
-#EXTINF:-1 tvg-name="Azerbaijan Music Hit" tvg-id="" tvg-logo="" group-title="Azerbaycan",
+#EXTINF:-1 tvg-name="Azerbaijan Music Hit" tvg-id="" tvg-logo="" group-title="Azerbaycan",Azerbaijan Music Hit
 https://cdn4.yayin.com.tr/musicazhit/video.m3u8
 
 #EXTINF:-1 tvg-name="Alwan" tvg-id="" tvg-logo="" group-title="Alwan",Alwan
