@@ -72,19 +72,19 @@ https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
 #EXTINF:-1 tvg-name="Azerbaijan Music Hit", group-title="Azerbaycan",
 https://cdn4.yayin.com.tr/musicazhit/video.m3u8
 
-#EXTINF:-1 tvg-name="Alwan", group-title="Alwan",
+#EXTINF:-1 tvg-name="Alwan" tvg-id="" tvg-logo="" group-title="Alwan",Alwan
 http://mag.jee-ott.xyz:80/play/live.php?mac=A0:BB:3E:08:50:20&stream=1859098&extension=ts&play_token=fYlGTsVsz2
-#EXTINF:-1 tvg-name="Alwan2", group-title="Alwan",
+#EXTINF:-1 tvg-name="Alwan2" tvg-id="" tvg-logo="" group-title="Alwan",Alwan2
 http://mag.jee-ott.xyz:80/play/live.php?mac=A0:BB:3E:08:50:20&stream=1859097&extension=ts&play_token=rst1gmWrvA
-#EXTINF:-1 tvg-name="Alwan3", group-title="Alwan",
+#EXTINF:-1 tvg-name="Alwan3" tvg-id="" tvg-logo="" group-title="Alwan",Alwan3
 http://mag.jee-ott.xyz:80/play/live.php?mac=A0:BB:3E:08:50:20&stream=1859096&extension=ts&play_token=ZNQXOoAiL0
-#EXTINF:-1 tvg-name="Alwan4", group-title="Alwan",
+#EXTINF:-1 tvg-name="Alwan4" tvg-id="" tvg-logo="" group-title="Alwan",Alwan4
 http://mag.jee-ott.xyz:80/play/live.php?mac=A0:BB:3E:08:50:20&stream=1859095&extension=ts&play_token=ocgDhbbGwX
-#EXTINF:-1 tvg-name="Alwan5", group-title="Alwan",
+#EXTINF:-1 tvg-name="Alwan5" tvg-id="" tvg-logo="" group-title="Alwan",Alwan5
 http://mag.jee-ott.xyz:80/play/live.php?mac=A0:BB:3E:08:50:20&stream=1859094&extension=ts&play_token=5tocwvUazq
-#EXTINF:-1 tvg-name="Alwan6", group-title="Alwan",
+#EXTINF:-1 tvg-name="Alwan6" tvg-id="" tvg-logo="" group-title="Alwan",Alwan6
 http://mag.jee-ott.xyz:80/play/live.php?mac=A0:BB:3E:08:50:20&stream=1859092&extension=ts&play_token=fSfgfqe7G4
-#EXTINF:-1 tvg-name="Alwan7", group-title="Alwan",
+#EXTINF:-1 tvg-name="Alwan7" tvg-id="" tvg-logo="" group-title="Alwan",Alwan7
 http://mag.jee-ott.xyz:80/play/live.php?mac=A0:BB:3E:08:50:20&stream=1859075&extension=ts&play_token=xaM2OjtvYM
 
 #EXTINF:-1 tvg-name="TRT 1" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/trt-1-tr.png" group-title="Ulusal",1. TRT 1
