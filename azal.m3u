@@ -146,30 +146,18 @@ https://bstelevision.com/proxy_stream.php?u=https://trn03.tulix.tv/gt-trtcocuk/t
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="Tom ve Jerry" tvg-id="" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/1ee2330505f6c9257b592e296236cdf917ac3499ac89cc39972ed2f8861c73c7.jpg" group-title="Çocuklara Özel",Tom ve Jerry
 http://sup-4k.org:80/play/live.php?mac=00:1A:79:56:7A:24&stream=151997&extension=ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="Spor",Bein sport 1
-https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="Spor",
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="Spor",Bein sport 1 
 http://146.59.93.251/10422/index.m3u8?token=74F13A6D9308
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="Spor",Bein Sport 1 
-https://zeustv453269.info/b1local/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="Spor",
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="Spor",Bein Sport 1 
-https://dga1op10s1u3leo.2cc1c0fe5e38a1.click/live/xbeinsports-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="Spor",Bein Sport 1 
-http://31.57.108.245:8080/BEINSPORTSD_4K.m3u
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="Spor",
 
-#EXTINF:-1 tvg-logo="" group-title="Spor",SSport 1
-https://hlsssssss.amgtmeme.workers.dev/https://corestream.ronaldovurdu.help//hls/s-sport.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="Spor",
 
-#EXTINF:-1 tvg-logo="" group-title="Spor",SSport 1
-https://cdn.beintvcanliizle154.com/M970499/M970499.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Spor",SSport 2
-https://cdn.beintvcanliizle154.com/M817817/M817817.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Spor",SSport 2
-https://hlsssssss.amgtmeme.workers.dev/https://corestream.ronaldovurdu.help//hls/s-sport-2.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="Spor",Bein sport 2
@@ -183,18 +171,14 @@ https://andro.226503.xyz/checklist/androstreamlivess1.m3u8
 #EXTINF:-1 tvg-name="TRT Spor" tvg-id="TRT Spor.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/trt-spor-tr.png" group-title="Spor",TRT Spor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 https://andro.okan9gote10sokan.cfd/checklist/androstreamlivetrts.m3u8
-#EXTINF:-1 tvg-name="HT Spor" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFubzZVJvdxE_-EsON2kuk43rrFhsksu2kakH0FGWdpWUAR8CWep_gmGHZ&s=10" group-title="Spor",41. HT Spor
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-http://vpsserverdomain.com:8080/oguzhanbahadirtr/bxymkuGM/601806
+
 #EXTINF:-1 tvg-name="Euro Sport" tvg-id="" tvg-logo="https://i.eurosport.com/2015/11/12/1731141-36621046-2560-1440.jpg" group-title="Spor",44. Euro Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 https://andro.okan9gote10sokan.cfd/checklist/androstreamlivees1.m3u8
 #EXTINF:-1 tvg-name="Euro Sport 2" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDiQVfLONMYUZidKLsNgDmHnLPSXWHV3iactdKIzUcb8ITqXUfjEAnhRCG&s=10" group-title="Spor",45. Euro Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 https://andro.okan9gote10sokan.cfd/checklist/androstreamlivees2.m3u8
-#EXTINF:-1 tvg-name="Tivibu Spor 1" tvg-id="" tvg-logo="https://i1.sndcdn.com/avatars-000335394613-kvru7x-t1080x1080.jpg" group-title="Spor",46. Tivibu Spor 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://raspy-forest-b1e4.aykara463.workers.dev/706.m3u8
+
 #EXTINF:-1 tvg-name="Tivibu Spor 2" tvg-id="" tvg-logo="https://tvprofil.com/img/kanali-logo/Tivibu_Spor_2_TR_logo_v2.png?1733730885" group-title="Spor",47. Tivibu Spor 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Mobile/15E148 Safari/604.1
 https://andro.okan9gote10sokan.cfd/checklist/androstreamlivets2.m3u8
@@ -209,8 +193,7 @@ https://andro.okan9gote10sokan.cfd/checklist/androstreamlivets4.m3u8
 
 #EXTINF:-1 tvg-name="Tabii" tvg-id="" tvg-logo="https://cms-tabii-assets.tabii.com/thumbnails/23963_781e9dee-cbd8-491a-b166-0b1df25b3bd0_720.jpeg" group-title="Sinema",77. Tabii
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
-#EXTINF:-1 tvg-name="Max Turk" tvg-id="Max Turk.tr" tvg-logo="https://www.sinematurk.com/media/logo/sinematurkTop.png" group-title="Sinema",Max Turk
-http://vpsserverdomain.com:8080/oguzhanbahadirtr/bxymkuGM/10851
+
 #EXTINF:-1 tvg-name="Rize Turk" tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFqUAdF7Tg2HfBWFru-Yl2rVntju4lRUSxFIMR4gvaHV7Y1FyGZnFma2QbxHzL0yw-ofOqVt2oQk-BaoW_iYIbEri56Q0ZrW90tPnFNCLTZMd3sSy5JyEbb_p5zhNVyxJQa4U-dd3scI6Z8CBhrnDMF-TGkgZfCdoDqcP5SBWkM18IoCx_ObsNO1AUJw/s434/rizeturktv.png" group-title="Sinema",Rize Turk
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
 
@@ -218,8 +201,7 @@ https://yayin.rizeturk.com:3777/hybrid/play.m3u8
 https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8?session=7EmdosSBQiydiZKQezHkC2
 #EXTINF:-1 tvg-name="Tivi 6" tvg-id="" tvg-logo="https://tivi6.com.tr/wp-content/uploads/2022/11/tivi6_logo-300x113-1.png" group-title="Sinema",93. Tivi 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
-#EXTINF:-1 tvg-name="FX" tvg-id="7f190eceae35f6e69fbae67b34c0ed76" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/fx-tr.png" group-title="Sinema",FX
-http://sup-4k.org:80/play/live.php?mac=00:1A:79:56:7A:24&stream=196847&extension=ts
+
 #EXTINF:-1 tvg-name="Komedi TV" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaZ5DEs1MYVvQnhCsSrlbQWchnS6Dlogf1LA&s" group-title="Sinema",Komedi TV
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="TRT Belgesel" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/trt-belgesel-tr.png" group-title="Belgesel",95. TRT Belgesel
