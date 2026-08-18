@@ -130,7 +130,8 @@ https://pepsi3.abntv.live/hls/psp3.m3u8
 https://pepsi.abntv.live/hls/4spstream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="Spor",x3
 https://pepsi3.abntv.live/hls/psp1.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="Spor",Bayzan tv
+https://live-aburayhan1101.telewebion.ir/ek/varzesh/live/720p/index.m3u8?token=bayzantv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="Spor",Bein sport 1 
 http://146.59.93.251/10422/index.m3u8?token=74F13A6D9308
 
